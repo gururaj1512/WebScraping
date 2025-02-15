@@ -1,0 +1,482 @@
+[
+    {
+        "id": "GX-37H-MS",
+        "name": "MSI NVIDIA GeForce GT 1030 LP OC 2048MB DDR4 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce GT 1030 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-nvidia-geforce-gt-1030-lp-oc-2048mb-ddr4-pci-express-graphics-card-gx-37h-ms.html",
+        "price": 4999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-MSI-03388",
+        "name": "MSI NVIDIA GeForce GT 1030 4GHD4 LP OC 4GB DDR4 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce GT 1030 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-nvidia-geforce-gt-1030-4ghd4-lp-oc-4gb-ddr4-pci-express-graphics-card-gra-msi-03388.html",
+        "price": 5749,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-1FH-GI",
+        "name": "Gigabyte GeForce RTX 3060 WindForce OC LHR 12GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 3060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gigabyte-geforce-rtx-3060-windforce-oc-lhr-12gb-gddr6-pci-express-graphics-gx-1fh-gi.html",
+        "price": 24166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-1E3-GI",
+        "name": "Gigabyte GeForce RTX 3060 Gaming OC V2 LHR 12GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 3060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gigabyte-geforce-rtx-3060-gaming-oc-v2-lhr-12gb-gddr6-pci-express-graphics-gx-1e3-gi.html",
+        "price": 24999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-13A-ZT",
+        "name": "Zotac GeForce RTX 3050 Twin Edge LHR 8192MB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 3050 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/zotac-geforce-rtx-3050-twin-edge-lhr-8192mb-gddr6-pci-express-graphics-card-gx-13a-zt.html",
+        "price": 16666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-13Q-ZT",
+        "name": "Zotac GeForce RTX 4070 Twin Edge OC 12GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/zotac-geforce-rtx-4070-twin-edge-oc-12gb-gddr6x-pci-express-graphics-card-gx-13q-zt.html",
+        "price": 44999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-02000",
+        "name": "Asus GeForce RTX 4070 SUPER TUF OC 12GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Super Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4070-super-tuf-oc-12gb-gddr6x-pci-express-graphics-card-gra-asu-02000.html",
+        "price": 59166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-13U-ZT",
+        "name": "Zotac GeForce RTX 4060 SOLO 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/zotac-geforce-rtx-4060-solo-8gb-gddr6-pci-express-graphics-card-gx-13u-zt.html",
+        "price": 21666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-49H-AS",
+        "name": "Asus GeForce RTX 4060 Dual OC 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4060-dual-oc-8gb-gddr6-pci-express-graphics-card-gx-49h-as.html",
+        "price": 26666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-PAL-04057",
+        "name": "Palit GeForce RTX 5080 GameRock 16GB GDDR7 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 5080 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/palit-geforce-rtx-5080-gamerock-16gb-gddr7-pci-express-graphics-card-gra-pal-04057.html",
+        "price": 106666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-12F-ZT",
+        "name": "Zotac GeForce RTX 3060 Twin Edge OC LHR 12GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 3060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/zotac-geforce-rtx-3060-twin-edge-oc-lhr-12gb-gddr6-pci-express-graphics-car-gx-12f-zt.html",
+        "price": 24166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-39A-MS",
+        "name": "MSI GeForce RTX 4060 Ventus 2X OC 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-4060-ventus-2x-oc-8gb-gddr6-pci-express-graphics-card-gx-39a-ms.html",
+        "price": 24999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-02406",
+        "name": "Asus GeForce RTX 4060 Dual V2 OC 8GB GDDR6 PCI-Express Graphics Card - Bulk",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4060-dual-v2-oc-8gb-gddr6-pci-express-graphics-card-bulk-gra-asu-02406.html",
+        "price": 24000,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-1G8-GI",
+        "name": "Gigabyte GeForce RTX 4060 WindForce 2X OC 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gigabyte-geforce-rtx-4060-windforce-oc-8gb-gddr6-pci-express-graphics-card-gx-1g8-gi.html",
+        "price": 23249,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-398-MS",
+        "name": "MSI GeForce RTX 4060Ti Dual OC 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-4060ti-ventus-2x-black-oc-8gb-gddr6-pci-express-graphics-ca-gx-398-ms.html",
+        "price": 29999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-MSI-01664",
+        "name": "MSI GeForce RTX 4070 SUPER Gaming X Slim 12GB GDDR6X PCI-Express Graphics",
+        "category": "NVIDIA GeForce RTX 4070 Super Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-4070-super-gaming-x-slim-12gb-gddr6x-pci-express-graphics-gra-msi-01664.html",
+        "price": 57499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-060-PL",
+        "name": "Palit GeForce RTX 3060 Dual LHR 12GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 3060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/palit-geforce-rtx-3060-dual-lhr-12gb-gddr6-pci-express-graphics-card-gx-060-pl.html",
+        "price": 22499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-GIG-01265",
+        "name": "Gigabyte RTX 4060Ti WindForce OC 16GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti 16GB Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gigabyte-geforce-rtx-4060ti-windforce-oc-16gb-gddr6x-pci-express-graphics-c-gra-gig-01265.html",
+        "price": 37499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-MSI-03202",
+        "name": "MSI GeForce RTX 4070 VENTUS 2X E1 OC 12GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-4070-ventus-2x-e1-oc-12gb-gddr6-pci-express-graphics-card-gra-msi-03202.html",
+        "price": 44166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-MSI-02561",
+        "name": "MSI GeForce RTX 4070 Ventus 2X E OC 12GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-4070-ventus-2x-e-oc-12gb-gddr6x-pci-express-graphics-card-gra-msi-02561.html",
+        "price": 44166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-02978",
+        "name": "Asus GeForce RTX 4060Ti TUF OC 8GB GDDR6 Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4060ti-tuf-oc-8gb-gddr6-graphics-card-gra-asu-02978.html",
+        "price": 33329,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-1G7-GI",
+        "name": "Gigabyte GeForce RTX 4060Ti Eagle 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gigabyte-geforce-rtx-4060ti-eagle-8gb-gddr6-pci-express-graphics-card-gx-1g7-gi.html",
+        "price": 32499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-46G-AS",
+        "name": "Asus GeForce RTX 3060 V2 LHR Dual OC 12GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 3060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-3060-v2-lhr-dual-oc-12gb-gddr6-pci-express-graphics-card-gx-46g-as.html",
+        "price": 24166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-02563",
+        "name": "Asus GeForce RTX 4070 Dual EVO OC 12GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4070-dual-evo-oc-12gb-gddr6x-pci-express-graphics-card-gra-asu-02563.html",
+        "price": 44999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-03199",
+        "name": "Asus GeForce RTX 4060 Ti Dual EVO OC 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4060-ti-dual-evo-oc-8gb-gddr6-pci-express-graphics-card-gra-asu-03199.html",
+        "price": 31666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-02925",
+        "name": "Asus GeForce RTX 4070 PRIME OC 12GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4070-prime-oc-12gb-gddr6x-pci-express-graphics-card-gra-asu-02925.html",
+        "price": 44999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-02626",
+        "name": "Asus GeForce RTX 4060 Dual White OC 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4060-dual-white-oc-8gb-gddr6-pci-express-graphics-card-gra-asu-02626.html",
+        "price": 26666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-078-PL",
+        "name": "Palit GeForce RTX 4060 StormX 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/palit-geforce-rtx-4060-stormx-8gb-gddr6-pci-express-graphics-card-gx-078-pl.html",
+        "price": 22499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-03198",
+        "name": "Asus GeForce RTX 4060 Dual EVO OC 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4060-dual-evo-oc-8gb-gddr6-pci-express-graphics-card-gra-asu-03198.html",
+        "price": 24166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ZTC-03195",
+        "name": "Zotac GeForce RTX 4070 Twin Edge 12GB GDDR6 Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/zotac-geforce-rtx-4070-twin-edge-12gb-gddr6-graphics-card-gra-ztc-03195.html",
+        "price": 41666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-INO-01656",
+        "name": "Inno3D GeForce RTX 4070 Ti SUPER Twin X2 OC White 16GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Ti Super Graphics Cards",
+        "url": "https://www.overclockers.co.uk/inno3d-geforce-rtx-4070-ti-super-twin-x2-oc-white-16gb-gddr6x-pci-express-g-gra-ino-01656.html",
+        "price": 74999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-03832",
+        "name": "Asus GeForce RTX 3050 Dual OC 6GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 3050 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-3050-dual-oc-6gb-gddr6-pci-express-graphics-card-gra-asu-03832.html",
+        "price": 14999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-GIG-03314",
+        "name": "Gigabyte GeForce RTX\u00ad\u00ad 4060 Ti WINDFORCE 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti Graphics Cards",
+        "url": "https://www.overclockers.co.uk/r2lnywj5dgugr2vgb3jjzsbsvfitrsa0mdywifrpifdjtkrgt1jdrsa4r0igr0reujyguenjluv4chjlc3mgr3jhcghpy3mgq2fy-gra-gig-03314.html",
+        "price": 29999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ZTC-02851",
+        "name": "Zotac GeForce RTX 4070 TI Super Trinity OC 16GB PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Ti Super Graphics Cards",
+        "url": "https://www.overclockers.co.uk/zotac-geforce-rtx-4070-ti-super-trinity-oc-16gb-pci-express-graphics-card-gra-ztc-02851.html",
+        "price": 72499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-076-PL",
+        "name": "Palit GeForce RTX 4060Ti StormX 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti Graphics Cards",
+        "url": "https://www.overclockers.co.uk/palit-geforce-rtx-4060ti-stormx-8gb-gddr6-pci-express-graphics-card-gx-076-pl.html",
+        "price": 29999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-MSI-03204",
+        "name": "MSI GeForce RTX 4060 Ti VENTUS 2X BLACK 16GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti 16GB Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-4060-ti-ventus-2x-black-16gb-gddr6x-pci-express-graphics-ca-gra-msi-03204.html",
+        "price": 37499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-MSI-03205",
+        "name": "MSI GeForce RTX 4060 Ti VENTUS 3X E OC 8GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-4060-ti-ventus-3x-e-oc-8gb-gddr6x-pci-express-graphics-card-gra-msi-03205.html",
+        "price": 31666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-MSI-03208",
+        "name": "MSI GeForce RTX 3050 VENTUS 2X OC 6GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 3050 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-3050-ventus-2x-oc-6gb-gddr6x-pci-express-graphics-card-gra-msi-03208.html",
+        "price": 14166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-PNY-02912",
+        "name": "PNY GeForce RTX 4070 SUPER XLR8 OC RGB 12GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Super Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-geforce-rtx-4070-super-xlr8-oc-rgb-12gb-gddr6x-pci-express-graphics-car-gra-pny-02912.html",
+        "price": 52499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-PAL-04059",
+        "name": "Palit GeForce RTX 5080 Gaming Pro 16GB GDDR7 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 5080 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/palit-geforce-rtx-5080-gaming-pro-16gb-gddr7-pci-express-graphics-card-gra-pal-04059.html",
+        "price": 104166,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-GIG-02556",
+        "name": "Gigabyte GeForce RTX 4070 Ti SUPER AI TOP 16GB GDDR6X PCI-Express Graphic",
+        "category": "NVIDIA GeForce RTX 4070 Ti Super Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gigabyte-geforce-rtx-4070-ti-super-ai-top-16gb-gddr6x-pci-express-graphic-gra-gig-02556.html",
+        "price": 76666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-GNW-03979",
+        "name": "Gainward GeForce RTX 5080 Phantom 16GB GDDR7 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 5080 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gainward-geforce-rtx-5080-phantom-16gb-gddr7-pci-express-graphics-card-gra-gnw-03979.html",
+        "price": 108250,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-077-PL",
+        "name": "Palit GeForce RTX 4060Ti Dual 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Ti Graphics Cards",
+        "url": "https://www.overclockers.co.uk/palit-geforce-rtx-4060ti-dual-8gb-gddr6-pci-express-graphics-card-gx-077-pl.html",
+        "price": 32499,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-MSI-03206",
+        "name": "MSI GeForce RTX 4060 VENTUS 2X WHITE OC 8GB GDDR6 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/msi-geforce-rtx-4060-ventus-2x-white-oc-8gb-gddr6-pci-express-graphics-card-gra-msi-03206.html",
+        "price": 24999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-PAL-04058",
+        "name": "Palit GeForce RTX 5080 Gaming Pro OC 16GB GDDR7 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 5080 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/palit-geforce-rtx-5080-gaming-pro-oc-16gb-gddr7-pci-express-graphics-card-gra-pal-04058.html",
+        "price": 106666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-03201",
+        "name": "Asus GeForce RTX 4060 Dual EVO OC 8GB GDDR6 PCI-Express Graphics Card - White",
+        "category": "NVIDIA GeForce RTX 4060 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4060-dual-evo-oc-8gb-gddr6-pci-express-graphics-card-whi-gra-asu-03201.html",
+        "price": 25749,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ZTC-04517",
+        "name": "Zotac GeForce RTX 4070 Ti SUPER AMP Airo 16GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Ti Super Graphics Cards",
+        "url": "https://www.overclockers.co.uk/zotac-geforce-rtx-4070-ti-super-amp-airo-16gb-gddr6x-pci-express-graphics-c-gra-ztc-04517.html",
+        "price": 74999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-ASU-04515",
+        "name": "Asus GeForce RTX 4070 Ti SUPER Prime OC 16GB GDDR6X PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 4070 Ti Super Graphics Cards",
+        "url": "https://www.overclockers.co.uk/asus-geforce-rtx-4070-ti-super-prime-oc-16gb-gddr6x-pci-express-graphics-ca-gra-asu-04515.html",
+        "price": 74999,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-GIG-04124",
+        "name": "Gigabyte GeForce RTX 5080 Aorus Xtreme Waterforce WB 16GB GDDR7 PCI-Express Graphics Card",
+        "category": "NVIDIA GeForce RTX 5080 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gigabyte-geforce-rtx-5080-aorus-xtreme-waterforce-wb-16gb-gddr7-pci-express-gra-gig-04124.html",
+        "price": 141666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GRA-GIG-04123",
+        "name": "Gigabyte GeForce RTX 5080 Aorus Xtreme Waterforce 16GB GDDR7 PCI-Express Grapics Card",
+        "category": "NVIDIA GeForce RTX 5080 Graphics Cards",
+        "url": "https://www.overclockers.co.uk/gigabyte-geforce-rtx-5080-aorus-xtreme-waterforce-16gb-gddr7-pci-express-gr-gra-gig-04123.html",
+        "price": 141666,
+        "availability_status": "available"
+    },
+    {
+        "id": "GX-01X-NV",
+        "name": "PNY Nvidia Quadro RTX 8000 Graphics Card - 48GB GDDR6 - 4608 CUDA Core",
+        "category": "NVIDIA Quadro Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-nvidia-quadro-rtx-8000-graphics-card-48gb-gddr6-4608-cuda-core-gx-01x-nv.html",
+        "price": 562999,
+        "availability_status": "preorder"
+    },
+    {
+        "id": "GX-05Y-PN",
+        "name": "PNY Nvidia Quadro RTX 4000 Graphics Card - 8GB GDDR6 - 2304 CUDA Core",
+        "category": "NVIDIA Quadro Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-nvidia-quadro-rtx-4000-graphics-card-8gb-gddr6-2304-cuda-core-gx-05y-pn.html",
+        "price": 89166,
+        "availability_status": "preorder"
+    },
+    {
+        "id": "GX-05Z-PN",
+        "name": "PNY Nvidia Quadro RTX 5000 Graphics Card - 16GB GDDR6 - 3072 CUDA Core",
+        "category": "NVIDIA Quadro Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-nvidia-quadro-rtx-5000-graphics-card-16gb-gddr6-3072-cuda-core-gx-05z-pn.html",
+        "price": 199166,
+        "availability_status": "preorder"
+    },
+    {
+        "id": "GX-06U-PN",
+        "name": "PNY Nvidia Quadro RTX A4000 Graphics Card  - 16GB GDDR6 - 6144 CUDA Core",
+        "category": "NVIDIA Quadro Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-nvidia-quadro-rtx-a4000-graphics-card-16gb-gddr6-6144-cuda-core-gx-06u-pn.html",
+        "price": 105829,
+        "availability_status": "preorder"
+    },
+    {
+        "id": "GX-075-PN",
+        "name": "PNY Nvidia Quadro T1000 Graphics Card - 4GB GDDR6 - 896 CUDA Core",
+        "category": "NVIDIA Quadro Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-nvidia-quadro-t1000-graphics-card-4gb-gddr6-896-cuda-core-gx-075-pn.html",
+        "price": 34166,
+        "availability_status": "preorder"
+    },
+    {
+        "id": "GX-060-PN",
+        "name": "PNY Nvidia Quadro RTX 6000 Graphics Card - 24GB GDDR6 - 4608 CUDA Core",
+        "category": "NVIDIA Quadro Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-nvidia-quadro-rtx-6000-graphics-card-24gb-gddr6-4608-cuda-core-gx-060-pn.html",
+        "price": 381666,
+        "availability_status": "preorder"
+    },
+    {
+        "id": "GX-01R-NV",
+        "name": "NVIDIA GEFORCE RTX NVLINK BRIDGE 4-SLOT",
+        "category": "SLI / CrossFire Bridges",
+        "url": "https://www.overclockers.co.uk/nvidia-geforce-rtx-nvlink-bridge-4-slot-gx-01r-nv.html",
+        "price": 1500,
+        "availability_status": "out_of_stock"
+    },
+    {
+        "id": "GX-014-NV",
+        "name": "NVIDIA GeForce GTX SLI HB Bridge 2-Slot (L380220)",
+        "category": "SLI Bridges",
+        "url": "https://www.overclockers.co.uk/nvidia-geforce-gtx-sli-hb-bridge-2-slot-l380220-gx-014-nv.html",
+        "price": 3249,
+        "availability_status": "out_of_stock"
+    },
+    {
+        "id": "GX-05V-PN",
+        "name": "PNY Nvidia Quadro P620 DP Low Profile Graphics Card - 2GB GDDR5 - 512 CUDA ",
+        "category": "NVIDIA Quadro Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-nvidia-quadro-p620-dp-low-profile-graphics-card-2gb-gddr5-512-cuda-gx-05v-pn.html",
+        "price": 19166,
+        "availability_status": "out_of_stock"
+    },
+    {
+        "id": "GX-05M-PN",
+        "name": "PNY Nvidia Quadro P1000 Graphics Card - 4GB GDDR5 - 640 CUDA Core",
+        "category": "NVIDIA Quadro Graphics Cards",
+        "url": "https://www.overclockers.co.uk/pny-nvidia-quadro-p1000-graphics-card-4gb-gddr5-640-cuda-core-gx-05m-pn.html",
+        "price": 34166,
+        "availability_status": "out_of_stock"
+    }
+]
