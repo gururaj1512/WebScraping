@@ -1,1 +1,242 @@
-"Hello World"
+[
+    {
+        "title": "Pizza sauce",
+        "description": "Our rich tomato pizza sauce is achieved by cooking it over a low heat until thickened and glossy. It's easy to make and is perfect for pizza night.",
+        "time": "55 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": true
+    },
+    {
+        "title": "Pizza Margherita in 4 easy steps",
+        "description": "Even a novice cook can master the art of perfect pizza with our step-by-step guide. This homemade pizza recipe features a simple pizza dough and toppings.",
+        "time": "35 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "No yeast pizza dough",
+        "description": "Try this easy no yeast recipe for pizza dough using just flour, baking powder, salt and oil. Recipe by Helen Hurrell, mum of BBC Good Food member Eleanor",
+        "time": "35 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Pizza dough",
+        "description": "A simple and versatile Italian-style pizza dough that can be chilled or frozen, then shaped and cooked by oven or barbecue",
+        "time": "15 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Quick pizza dough",
+        "description": "Make our speedy pizza base, then add a tomato sauce and your favourite toppings. If you're after a thin crust, you don't need to prove it for longer than 5 mins",
+        "time": "40 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Pizza with homemade sauce",
+        "description": "Make pizza for the family with a homemade base and tomato sauce. The veggie recipe is perfect to get kids involved in cooking. Top with mozzarella and fresh basil",
+        "time": "50 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Chicken tikka masala pizzas",
+        "description": "Rustle up our spiced chicken pizzas using naan bread in just 20 minutes. To balance the heat, serve them with dollops of mango chutney and natural yogurt",
+        "time": "20 mins",
+        "difficulty": "Easy",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Puff pastry pizzas",
+        "description": "Have fun preparing these puff pastry pizzas with kids. Chop up any veg you have into small pieces and let everyone choose their own toppings",
+        "time": "55 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Next level Margherita pizza",
+        "description": "Forget takeaways \u2013 you can\u2019t beat a homemade Margherita pizza topped with fresh tomato sauce and melted cheese. Here's how to master this everyday classic...",
+        "time": "1 hr 40 mins",
+        "difficulty": "More effort",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Egg & rocket pizzas",
+        "description": "Use seeded tortillas as pizza bases for a quick and healthy lunch - crack an egg in the centre and bake to boost protein intake",
+        "time": "30 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Vegan pizza Margherita",
+        "description": "Vegans needn't miss out on pizza Margherita. Our recipe combines the classic flavours of this Italian comfort food using plant-based substitutes",
+        "time": "30 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Cookie dough pizza",
+        "description": "We've seen pizza in all sorts of varieties, but this has to be our favourite. Top your cookie dough pizza base with any treats that take your fancy",
+        "time": "40 mins",
+        "difficulty": "Easy",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Gluten-free pizza",
+        "description": "Make our gluten-free version of a classic pizza. The base is easy, spread over rich homemade tomato sauce, then finish with buffalo mozzarella and fresh basil",
+        "time": "55 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": true
+    },
+    {
+        "title": "Pizza",
+        "description": "Make your own pizza with a crispy base, mozzarella cheese and a fresh tomato sauce. Add simple toppings like slices of ham and rocket if you like.",
+        "time": "4 hrs",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Pizza fondue dip",
+        "description": "Love pizza? This fondue dip is for you, with tomato, melted cheese and pepperoni. It's great sharing food for a party. Enjoy with garlic bread or breadsticks",
+        "time": "35 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Sourdough pizza",
+        "description": "Make homemade sourdough pizza with a wonderfully chewy crust. Try our margherita recipe, then customise with your favourite toppings",
+        "time": "2 hrs",
+        "difficulty": "More effort",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Pitta pizzas",
+        "description": "Little ones will love these fun and super-easy pizza's for lunch or a light supper",
+        "time": "45 mins",
+        "difficulty": "Easy",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Superhealthy pizza",
+        "description": "The quantities for this vegetarian pizza are generous, so if you have any leftovers, pop a few cold slices into your lunchbox for the next day",
+        "time": "50 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": true
+    },
+    {
+        "title": "Tortilla pizza",
+        "description": "Need a quick supper for two that's ready in a flash? Use all your favourite toppings on this easy tortilla pizza, with plenty of melted mozzarella",
+        "time": "18 mins",
+        "difficulty": "Easy",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Cauliflower crust pizza",
+        "description": "Whiz up cauliflower and ground almonds in a food processor to make this gluten-free pizza base - top with tomatoes, aubergine and cheese",
+        "time": "1 hr",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": true
+    },
+    {
+        "title": "Keto pizza",
+        "description": "Make a keto version of pizza with a crust made using cauliflower rice, coconut flour and flaxseed. Top with parmesan, tomatoes, rocket and olives for a flavourful meal",
+        "time": "1 hr 35 mins",
+        "difficulty": "Vegetarian",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Very simple Margherita pizza",
+        "description": "You can't beat piping hot cheese and tomato on a thin, crispy pizza base - this version is ready in just 35 minutes",
+        "time": "35 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Rainbow pizzas",
+        "description": "Forget takeaway pizzas, encourage kids to eat a rainbow every day with this colourful recipe full of fresh flavours \u2013 guaranteed to please even fussy eaters",
+        "time": "40 mins",
+        "difficulty": "Easy",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Pizza pie",
+        "description": "Make a deep-dish Chicago-style pizza pie to serve everyone at once. This is a veggie version, but you can add any fillings you prefer",
+        "time": "1 hr 30 mins",
+        "difficulty": "More effort",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Spinach & blue cheese pizza",
+        "description": "This vegetarian pizza is super-quick to make because the base is yeast free. Packed with spinach, walnuts, mushrooms and blue cheese, it's super-tasty too",
+        "time": "22 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Pizza beans on toast",
+        "description": "Bring together two beloved dishes, beans on toast and pizza, in this hybrid lunchtime treat \u2013 the whole family will enjoy it",
+        "time": "40 mins",
+        "difficulty": "Easy",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Cheat\u2019s frying pan margherita pizzas",
+        "description": "Who said pizza needs to be pricey? Make your own takeaway-worthy versions in the comfort of your own home",
+        "time": "55 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    },
+    {
+        "title": "Mozzarella stuffed crust pizza",
+        "description": "Create your own cheesy masterpiece at home with our mozzarella pizza that goes the extra mile. You can't beat an oozy stuffed crust",
+        "time": "1 hr 5 mins",
+        "difficulty": "More effort",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Mini pizza quiches",
+        "description": "Use tortilla wraps and a muffin tin to make individually portioned egg, salami and tomato bites - ideal for lunch boxes or picnics",
+        "time": "25 mins",
+        "difficulty": "Easy",
+        "vegan": false,
+        "gluten_free": false
+    },
+    {
+        "title": "Easy tomato pizzas",
+        "description": "These colourful, flavour-packed pizzas are low-fat and delicious too",
+        "time": "1 hr 30 mins",
+        "difficulty": "Easy",
+        "vegan": true,
+        "gluten_free": false
+    }
+]
