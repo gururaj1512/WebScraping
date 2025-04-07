@@ -2,6 +2,7 @@ import requests
 from parsel import Selector
 
 from scrapping.bbc_food.models.recipe import Recipe
+from scrapping.helpers import catch
 
 
 class CollectRecipes:
@@ -19,6 +20,7 @@ class CollectRecipes:
         return results
 
 
+    @catch
     def create_recipe(self, html):
         card_sections_1 = Selector(html).xpath(".//div[@class='card__section card__content']")
         card_sections_2 = Selector(html).xpath(".//div[@class='card__section card__footer']")
