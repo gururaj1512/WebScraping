@@ -1,18 +1,10 @@
 from scrapping.bbc_food.collect_recipes import CollectRecipes
+from scrapping.run import Runner
 
 
-def default(args):
+def default(args, **kwargs):
+    runner: Runner = kwargs['runner']
     search_terms = args[0]
 
-    results = []
-    for i in CollectRecipes().start_collection(search_terms):
-        data = {
-            "title": i.title,
-            "description": i.description,
-            "time": i.time,
-            "difficulty": i.difficulty,
-            "vegan": i.vegan,
-            "gluten_free": i.gluten_free,
-        }
-        results.append(data)
-    return results
+    collector = CollectRecipes()
+    runner.submit_work(collector.start_collection, search_term)
